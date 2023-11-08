@@ -1,6 +1,6 @@
+### Oi, eu sou o Junior DeLonge!
 
-### Oi, eu sou o Junior!
-- Eu ainda estou construindo o meu perfil no gitHub.
+> Busco sempre melhorar as coisas.
 
 [![meu site](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
 )](https://juniordelonge.vercel.app)
@@ -9,7 +9,7 @@
 
 ![Junior DeLonge's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniordelonge&theme=dracula&show_icons=true)
 
-- no meu dia a dia eu utilizo e aprendo as seguintes linguagens
+>> Eu utilizo as seguintes linguagens:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,7 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniordelonge&layout=donut)](https://github.com/juniordelonge/github-readme-stats)
 
-- links:
-
-
-Obrigado por visitar meu perfil, até mais!!
+>>> Obrigado por visitar o meu perfil, até mais!
