@@ -1,11 +1,11 @@
-# Olá, Mundinho! 👋
+# Olá 👋
 
-Bem-vindo ao meu perfil. Sou o Junior, um entusiasta de tecnologia, design e desenvolvimento Full Stack. Aqui estão algumas informações sobre mim:
+Bem-vindo ao meu perfil. Sou o Junior, um entusiasta de tecnologia, design e desenvolvedor Full Stack. Aqui estão algumas informações sobre mim:
 
-## Sobre Mim
+## Info
 - 👨‍💻 Desenvolvedor Full Stack
-- 🎨 Entusiasta de Web Design
-- 🌍 São Paulo, Brasil
+- 🎨 Web Design
+- 🚀 São Paulo, Brasil
 
 ## Redes Sociais
 
@@ -62,10 +62,10 @@ Bem-vindo ao meu perfil. Sou o Junior, um entusiasta de tecnologia, design e des
 ## Projetos Destacados
 
 - 🚀 [Projeto 1](link_projeto_1): Uma breve descrição do projeto.
-- 🌐 [Projeto 2](link_projeto_2): Outra descrição interessante.
+- 🚀 [Projeto 2](link_projeto_2): Outra descrição interessante.
 
 ## Últimas Atividades no GitHub
 
 <!-- Adicione um widget de atividade recente do GitHub usando a ação "GitHub Readme Activity" (https://github.com/marketplace/actions/github-readme-activity) -->
 
-> Obrigado por visitar o meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato.
+> Obrigado por visitar o meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato comigo por rede sociais.
