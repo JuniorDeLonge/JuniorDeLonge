@@ -1,11 +1,11 @@
 # Olá 👋
 
-Bem-vindo ao meu perfil. Sou o Junior, um entusiasta de tecnologia, design e desenvolvedor Full Stack. Aqui estão algumas informações sobre mim:
+Me chamo Junior e sou um entusiasta de tecnologias, designer e desenvolvimento web. Aqui estão algumas informações sobre mim:
 
 ## Info
-- 👨‍💻 Desenvolvedor Full Stack
-- 🎨 Web Design
-- 🚀 São Paulo, Brasil
+- 👨‍💻 Desenvolvedor Full Stack.
+- 🎨 UX / UI designer and Developer.
+- 🚀 Brasil.
 
 ## Redes Sociais
 
